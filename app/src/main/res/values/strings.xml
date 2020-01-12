@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TagList</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_add_title">Add</string>
+    <string name="menu_open_trash_title">Open Trash</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_rename_list_title">Rename list</string>
+    <string name="menu_delete_list_title">Move list to Trash</string>
+    <string name="menu_restore_db">Restore DB</string>
+    <string name="menu_perform_sql_request">Perform SQL request</string>
+    <string name="menu_copy_list_to_clipboard">Copy list to clipboard</string>
+    <string name="menu_add_notes_from_clipboard">Add notes from clipboard</string>
+    <string name="note_context_menu_change_priority_title">Make</string>
+    <string name="note_context_menu_move">Move</string>
+    <string name="new_note_hint">Enter note text...</string>
+    <string name="add_new_list_label">Add new list</string>
+
+    <string name="list_copied_to_clipboard_toast">Notes from list \'%1$s\' copied to clipboard</string>
+
+    <string name="rename_list_dialog_title">Enter list name:</string>
+    <string name="rename_list_dialog_ok_button">OK</string>
+    <string name="rename_list_dialog_cancel_button">Cancel</string>
+
+    <string name="move_note_dialog_title">Move note to another list:</string>
+    <string name="note_moved_toast">Note moved to list \'%1$s\'</string>
+
+    <string name="delete_list_confirmation_dialog_text">Move list \'%1$s\' and all its notes to trash?</string>
+
+    <string name="bottom_sheet_priority_title">Priority</string>
+    <string name="bottom_sheet_move_title">Move</string>
+
+    <string name="note_priority_important">Important</string>
+    <string name="note_priority_normal">Normal</string>
+    <string name="note_priority_minor">Minor</string>
+    <string name="note_priority_trash">Trash</string>
+
+    <string name="default_first_list_name">My notes</string>
+    <string name="default_first_note_name">My first note</string>
+
+    <string name="activity_trash_title">Trash</string>
+    <string name="note_moved_to_trash_toast">Note moved to Trash</string>
+    <string name="menu_trash_delete_all_title">Empty Trash</string>
+    <string name="note_context_menu_put_back_from_trash">Put back</string>
+
+    <string name="shar_pref_key_last_opened_list">last_opened_list</string>
+
+    <string name="no_data_add_from_clipboard_toast">No data in clipboard</string>
+    <string name="not_plain_text_add_from_clipboard_toast">Data in clipboard is not plain text</string>
+    <string name="imported_from_clipboard_toast">Notes from clipboard added to this list</string>
+
+</resources>

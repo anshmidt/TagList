@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00acc1</color>
+    <color name="primaryDark">#007c91</color>
+    <color name="mainBackgroundColor">#ececec</color>
+    <!--<color name="mainBackgroundColor">#f9f9f9</color>-->
+    <color name="notesTextColor">#595959</color>
+    <color name="listNameInNoteTextColor">#bbbbbb</color>
+    <color name="noteBackground">#ffffff</color>
+    <color name="menuIcons">#ffffffff</color>
+    <color name="overflowMenuIcons">#777777</color>
+    <color name="cursorColorInSearch">#eeeeee</color>
+    <color name="notesDividerColor">#ececec</color>
+    <color name="cursorInNote">#00acc1</color>
+    <color name="hintInNote">#e0e0e0</color>
+    <color name="minorNotesTextColor">#bbbbbb</color>
+    <color name="importantNotesLabelColor">#d00101</color>
+    <!--<color name="addNoteButtonBackground">#cc00acc1</color>-->
+</resources>
